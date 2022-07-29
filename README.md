@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @dimasdistrack
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate ...
+- me ...
 
 <!---
 dimasdistrack/dimasdistrack is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -35,8 +35,12 @@ if($jsonAuth['code'] == 0 && !empty($jsonAuth['result']['info']['ph'])){
 	echo "[+] Login berhasil ...\r\n";
 	echo "\r\n\n";
 }else{
-	die("Config anda salah.");
-}
+          What is Currency;  ".jsonAuth['doge/eth/ltc/btt/bitcoin'])
+          ===========================
+          Time Untyl Payout; ".$jsonAuth['result']['info']['ph']."\r\n[+]
+          ===========================
+          Limit Proccess; https://api.ctree.id/api2/user/info?mmses=
+          ===========================
 while (TRUE) {
 	$url[] = array('url' => 'https://api.ctree.id/api2/ad/list');
 	$hed[] = array('post' => 'lng=111.22222&gaid='.$config['gaid'].'&ov=8.0.0&l={}&m={}&mmses='.$config['mmses'].'&r={}&gpid=^localroot'.time().'n@gmail.com&av='.$config['av'].'&lc=in_ID&imei='.$config['imei'].'&pn=com.vitiglobal.cashtree&lat=-6.123388383');
